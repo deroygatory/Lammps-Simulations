@@ -2,7 +2,7 @@ import os
 import math
 
 # User-dependent variables
-input_file = 'nve300K.dump'     # Path to your input file
+input_file = 'timestep.dump'     # Path to your input file
 output_dir = 'output_directory' # Directory to store the extracted files
 start_timestep = 300            # The starting timestep to extract
 end_timestep = 500              # The ending timestep to extract
